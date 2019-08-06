@@ -23,7 +23,6 @@ class ProductList extends Component {
             </div>
           </div>
         </div>
-        {/* <Product /> */}
       </Fragment>
     );
   }
